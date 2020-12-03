@@ -37,6 +37,7 @@
     <object>objects\o_solid</object>
     <object>objects\o_damage</object>
     <object>objects\o_shower</object>
+    <object>objects\o_yal</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\dimensional_airspace</room>
